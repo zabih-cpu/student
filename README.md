@@ -1,7 +1,7 @@
 # student
 this is my first repositry
 <br>
-name-zabihullah
+name-zabihullah (sabathkhail)
 <br>
 age-20
 <br>
